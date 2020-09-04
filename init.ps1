@@ -20,3 +20,6 @@ function WindowsSetupScript {
 #InstallWSL
 #InstallApps
 WindowsSetupScript
+
+#Enable openssh agent
+#add shortcuts to taskbar

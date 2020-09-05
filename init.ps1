@@ -18,8 +18,9 @@ function WindowsSetupScript {
 
 #InstallChoco
 #InstallWSL
-#InstallApps
-WindowsSetupScript
+InstallApps
+#WindowsSetupScript
 
 #Enable openssh agent
 #add shortcuts to taskbar
+#gitconfig pasten

@@ -16,10 +16,10 @@ function WindowsSetupScript {
 	./reclaim_win.cmd
 }
 
-#InstallChoco
-#InstallWSL
+InstallChoco
+InstallWSL
 InstallApps
-#WindowsSetupScript
+WindowsSetupScript
 
 #Enable openssh agent
 #add shortcuts to taskbar
